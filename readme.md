@@ -1,7 +1,8 @@
 ## Forth written in Python and GNU Assembler
 
 Usage:
- - python forth.py AAA.fth > BBB.s
+
+    python forth.py AAA.fth > BBB.s
 
 Development environment:
  - CPU: Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz 64 bits
